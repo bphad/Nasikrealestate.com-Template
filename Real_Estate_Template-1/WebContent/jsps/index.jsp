@@ -38,7 +38,7 @@
 					<div class="menu-top container">
 						<div class="d-flex justify-content-end align-items-center">
 							<ul class="list">
-								<li><a href="#">+91 9503285719</a></li>
+								<li><a href="#">+91-9503285719</a></li>
 								<li><a href="#">Sell / Rent Property</a></li>
 								<li><a href="#">login / register</a></li>
 							</ul>
@@ -67,8 +67,6 @@
 						  </div>						
 					</div>
 				</nav>
-
-
 			</header>
 			<!-- End Header Area -->
 
