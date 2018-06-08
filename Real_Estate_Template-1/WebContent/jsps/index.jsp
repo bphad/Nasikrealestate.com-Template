@@ -39,7 +39,7 @@
 						<div class="d-flex justify-content-end align-items-center">
 							<ul class="list">
 								<li><a href="#">+91-9503285719</a></li>
-								<li><a href="#">Sell / Rent Property</a></li>
+								<li><a href="buy-sell-rent.jsp">Sell / Rent Property</a></li>
 								<li><a href="#">login / register</a></li>
 							</ul>
 						</div>
@@ -61,7 +61,7 @@
 								<li><a href="#service">Service</a></li>
 								<li><a href="#property">Property</a></li>
 								<li><a href="#contact">Contact</a></li>
-								<li><a href="generic.jsp">Generic</a></li>
+								<li><a href="generic.jsp">About Nasik</a></li>
 								<li><a href="elements.jsp">Elements</a></li>
 						    </ul>
 						  </div>						
@@ -232,7 +232,7 @@
 						</div>																											
 					</div>
 				</div>	
-			</section>
+			</section><hr>
 			<!-- End property Area -->	
 				
 			<!-- Start About Area -->
@@ -327,7 +327,7 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</section><br><br><br><br><br>
 			<!-- End Contact Area -->	
 
 			<!-- start footer Area -->		
@@ -353,14 +353,12 @@
 										<div class="d-flex flex-row">
 
 											<input class="form-control" name="EMAIL" placeholder="Enter Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Email '" required="" type="email">
-
-
-				                            	<button class="click-btn btn btn-default"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></button>
+ 				                            	<button class="click-btn btn btn-default"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></button>
 				                            	<div style="position: absolute; left: -5000px;">
 													<input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
 												</div>
-				                          	
-											<!-- <div class="col-lg-4 col-md-4">
+												
+ 											<!-- <div class="col-lg-4 col-md-4">
 												<button class="bb-btn btn"><span class="lnr lnr-arrow-right"></span></button>
 											</div>  -->
 										</div>		

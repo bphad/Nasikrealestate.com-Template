@@ -40,7 +40,7 @@
 						<div class="d-flex justify-content-end align-items-center">
 							<ul class="list">
 								<li><a href="#">+91-9503285719</a></li>
-								<li><a href="#">Sell / Rent Property</a></li>
+								<li><a href="buy-sell-rent.jsp">Sell / Rent Property</a></li>
 								<li><a href="#">login / register</a></li>
 							</ul>
 						</div>
@@ -62,7 +62,7 @@
 								<li><a href="index.jsp#service">Service</a></li>
 								<li><a href="index.jsp#property">Property</a></li>
 								<li><a href="index.jsp#contact">Contact</a></li>
-								<li><a href="generic.jsp">Generic</a></li>
+								<li><a href="generic.jsp">About Nasik</a></li>
 								<li><a href="elements.jsp">Elements</a></li>
 						    </ul>
 						  </div>						
@@ -673,10 +673,9 @@
 								<h6>Follow Us</h6>
 								<p>Let us be social</p>
 								<div class="footer-social d-flex align-items-center">
-									<a href="#"><i class="fa fa-facebook"></i></a>
-									<a href="#"><i class="fa fa-twitter"></i></a>
-									<a href="#"><i class="fa fa-dribbble"></i></a>
-									<a href="#"><i class="fa fa-behance"></i></a>
+									<a href="#"><i class="fa fa-facebook">Facebook</i></a><br>
+									<a href="#"><i class="fa fa-twitter">Twitter</i></a><br>
+									<a href="#"><i class="fa fa-instagram">Instagram</i></a><br>
 								</div>
 							</div>
 						</div>							
