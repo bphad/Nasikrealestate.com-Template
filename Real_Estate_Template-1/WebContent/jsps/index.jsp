@@ -39,8 +39,8 @@
 						<div class="d-flex justify-content-end align-items-center">
 							<ul class="list">
 								<li><a href="#">+91-9503285719</a></li>
-								<li><a href="buy-sell-rent.jsp">Sell / Rent Property</a></li>
-								<li><a href="#">login / register</a></li>
+								<li><a href="buy.jsp">Sell / Rent Property</a></li>
+								<li><a href="login.jsp">login / register</a></li>
 							</ul>
 						</div>
 					</div>					

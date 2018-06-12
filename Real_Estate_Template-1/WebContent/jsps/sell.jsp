@@ -58,9 +58,9 @@
 						  <div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
 						    <ul class="navbar-nav">
 								<li><a href="index.jsp#home">Home</a></li>
-								<li><a href="index.jsp#service">Service</a></li>
-								<li><a href="index.jsp#property">Property</a></li>
-								<li><a href="index.jsp#contact">Contact</a></li>
+								<li><a href="buy.jsp">Buy</a></li>
+								<li><a href="sell.jsp">Sell</a></li>
+								<li><a href="rent.jsp">Rent</a></li>
 								<li><a href="generic.jsp">About Nasik</a></li>
 								<li><a href="elements.jsp">Elements</a></li>
 						    </ul>
@@ -73,7 +73,7 @@
 				<div class="row height align-items-center justify-content-center">
 					<div class="col-lg-10">
 						<div class="generic-banner-content">
-							<h2 class="text-white text-center">About Nasik</h2>
+							<h2 class="text-white text-center">Sell Property</h2>
 							<p class="text-white">It won’t be a bigger problem to find one video game lover in your <br> neighbor. Since the introduction of Virtual Game.</p>
 						</div>							
 					</div>
