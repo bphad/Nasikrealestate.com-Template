@@ -17,7 +17,7 @@
 		<!-- Codrops top bar -->
 		
 		<div class="codrops-top">
-			<a href=""> <strong>&laquo; All Rights Reserved: </strong>Nasikrealestates.com
+			<a href="index.jsp"> <strong>&laquo; All Rights Reserved: </strong>Nasikrealestates.com
 			</a> <span class="right"> 
 			<a href="#"><strong>Balasaheb B. Phad</strong></a>
 			</span>

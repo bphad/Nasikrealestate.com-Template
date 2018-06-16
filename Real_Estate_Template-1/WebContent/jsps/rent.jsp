@@ -74,7 +74,7 @@
 					<div class="col-lg-10">
 						<div class="generic-banner-content">
 							<h2 class="text-white text-center">Rent Property</h2>
-							<p class="text-white">It won’t be a bigger problem to find one video game lover in your <br> neighbor. Since the introduction of Virtual Game.</p>
+							<p class="text-white">Rent a property</p>
 						</div>							
 					</div>
 				</div>
@@ -93,90 +93,7 @@
 						</div>
 					</div>
 				</div>
-				<!-- Start city Area -->
-				<section class="city-area pb-100">
-					<div class="container">
-						<div class="row">
-							<div class="col-lg-4 col-md-4 mb-10">
-							  <div class="content">
-							    <a href="#" target="_blank">
-							      <div class="content-overlay"></div>
-							  		 <img class="content-image img-fluid d-block mx-auto" src="img/p1.jpg" alt="">
-							      <div class="content-details fadeIn-bottom">
-							        <h3 class="content-title">San Fransisco Properties</h3>
-							      </div>
-							    </a>
-							  </div>
-							</div>
-							<div class="col-lg-8 col-md-8 mb-10">
-								<div class="content">
-								    <a href="#" target="_blank">
-								      <div class="content-overlay"></div>
-								  		 <img class="content-image img-fluid d-block mx-auto" src="img/p2.jpg" alt="">
-								      <div class="content-details fadeIn-bottom">
-								        <h3 class="content-title">New York Properties</h3>
-								      </div>
-								    </a>
-							  	</div>
-								<div class="row city-bottom">
-									<div class="col-lg-6 col-md-6 mt-30">
-										<div class="content">
-										    <a href="#" target="_blank">
-										      <div class="content-overlay"></div>
-										  		 <img class="content-image img-fluid d-block mx-auto" src="img/p3.jpg" alt="">
-										      <div class="content-details fadeIn-bottom">
-										        <h3 class="content-title">Boston Properties</h3>
-										      </div>
-										    </a>
-										</div>
-									</div>
-									<div class="col-lg-6 col-md-6 mt-30">
-										<div class="content">
-										    <a href="#" target="_blank">
-										      <div class="content-overlay"></div>
-										  		 <img class="content-image img-fluid d-block mx-auto" src="img/p4.jpg" alt="">
-										      <div class="content-details fadeIn-bottom">
-										        <h3 class="content-title">Elay Properties</h3>
-										      </div>
-										    </a>
-										</div>
-									</div>								
-								</div>
-							</div>
-						</div>
-					</div>	
-				</section>
-				<!-- End city Area -->			
-
-
-				<!-- Start Generic Area -->
-				<section class="about-generic-area pb-100 ">
-					<div class="container border-top-generic">
-						<h3 class="about-title mb-30">Elaboration about Generic Page</h3>
-						<div class="row">
-							<div class="col-md-12">
-								<div class="img-text">
-									<img src="img/a.jpg" alt="" class="img-fluid float-left mr-20 mb-20">
-									<p>Recently, the US Federal government banned online casinos from operating in America by making it illegal to transfer money to them through any US bank or payment system. As a result of this law, most of the popular online casino networks such as Party Gaming and PlayTech left the United States. Overnight, online casino players found themselves being chased by the Federal government. But, after a fortnight, the online casino industry came up with a solution and new online casinos started taking root. These began to operate under a different business umbrella, and by doing that, rendered the transfer of money to and from them legal. A major part of this was enlisting electronic banking systems that would accept this new clarification and start doing business with me. Listed in this article are the electronic banking systems that accept players from the United States that wish to play in online casinos.</p>
-								</div>
-							</div>
-							<div class="col-lg-12">
-								<p>Recently, the US Federal government banned online casinos from operating in America by making it illegal to transfer money to them through any US bank or payment system. As a result of this law, most of the popular online casino networks such as Party Gaming and PlayTech left the United States. Overnight, online casino players found themselves being chased by the Federal government. But, after a fortnight, the online casino industry came up with a solution and new online casinos started taking root. These began to operate under a different business umbrella, and by doing that, rendered the transfer of money to and from them legal. A major part of this was enlisting electronic banking systems that would accept this new clarification and start doing business with me. Listed in this article are the electronic banking systems that accept players from the United States that wish to play in online casinos.</p>
-							</div>
-							<div class="col-lg-12">
-								<p>Recently, the US Federal government banned online casinos from operating in America by making it illegal to transfer money to them through any US bank or payment system. As a result of this law, most of the popular online casino networks such as Party Gaming and PlayTech left the United States. Overnight, online casino players found themselves being chased by the Federal government. But, after a fortnight, the online casino industry came up with a solution and new online casinos started taking root. These began to operate under a different business umbrella, and by doing that, rendered the transfer of money to and from them legal. A major part of this was enlisting electronic banking systems that would accept this new clarification and start doing business with me. Listed in this article are the electronic banking systems that accept players from the United States that wish to play in online casinos.</p>
-							</div>
-							<div class="col-md-12">
-								<div class="img-text">
-									<img src="img/a2.jpg" alt="" class="img-fluid float-left mr-20 mb-20">
-									<p>Recently, the US Federal government banned online casinos from operating in America by making it illegal to transfer money to them through any US bank or payment system. As a result of this law, most of the popular online casino networks such as Party Gaming and PlayTech left the United States. Overnight, online casino players found themselves being chased by the Federal government. But, after a fortnight, the online casino industry came up with a solution and new online casinos started taking root. These began to operate under a different business umbrella, and by doing that, rendered the transfer of money to and from them legal. A major part of this was enlisting electronic banking systems that would accept this new clarification and start doing business with me. Listed in this article are the electronic banking systems that accept players from the United States that wish to play in online casinos.</p>
-								</div>
-							</div>
-						</div>
-					</div>
-				</section>
-				<!-- End Generic Start -->		
-	
+						
 				<!-- start footer Area -->		
 				<footer class="footer-area section-gap">
 					<div class="container">
